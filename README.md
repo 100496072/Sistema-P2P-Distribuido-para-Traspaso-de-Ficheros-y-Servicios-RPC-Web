@@ -1,0 +1,2 @@
+# Sistema-P2P-Distribuido-para-Traspaso-de-Ficheros-y-Servicios-RPC-Web
+Proyecto final de la asignatura Sistemas Distribuidos que implementa un sistema peer-to-peer (P2P) para el traspaso de ficheros entre clientes, complementado con un servidor RPC y un servicio web en Python. El sistema permite la comunicación entre múltiples clientes y servidores, integrando operaciones distribuidas y coordinación de servicios.
